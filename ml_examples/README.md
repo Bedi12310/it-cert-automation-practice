@@ -1,5 +1,13 @@
 # Machine Learning Examples - MNIST Logistic Regression
 
+## 🚀 Quick Start
+
+**First time here?** See **[INDEX.md](INDEX.md)** for a guide to all documentation.
+
+**Need a quick fix?** See **[QUICK_FIX.md](QUICK_FIX.md)** for the one-line solution.
+
+**Want to see it working?** Run `python synthetic_example.py`
+
 ## Overview
 
 This directory contains a logistic regression classifier implementation and examples demonstrating common pitfalls and improvements for MNIST digit classification.
